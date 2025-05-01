@@ -1,0 +1,13 @@
+transformers==4.51.3
+sentence-transformers==3.4.1
+python-dotenv==1.1.0
+pandas==2.2.2
+openpyxl==3.1.5
+langchain==0.3.24
+chromadb==1.0.7
+datasets==3.5.1
+evaluate==0.4.3
+fastparquet==2024.11.0
+more-itertools==10.7.0
+rouge_score==0.1.2
+pyarrow==18.1.0
