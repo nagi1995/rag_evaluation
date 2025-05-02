@@ -62,7 +62,8 @@ Intermediate outputs are saved and used in subsequent steps.
 
 - ROUGE 
 - BLEU 
-- Exact Match (EM) 
+- Exact Match (EM)
+- F1 score
 
 ---
 
