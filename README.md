@@ -3,8 +3,11 @@
 A modular pipeline to evaluate **Retrieval-Augmented Generation (RAG)** systems using HotspotQA dataset, dense embeddings, and standard NLP evaluation metrics.
 
 ---
+# [Link](https://binginagesh.medium.com/evaluating-retrieval-augmented-generation-rag-measuring-llm-response-quality-c2a41f78f9a8) to medium blog
 
-## 📌 Features
+---
+
+# 📌 Features
 
 - ✅ Dataset download and preparation  
 - ✅ Embedding generation using transformer models  
@@ -14,7 +17,7 @@ A modular pipeline to evaluate **Retrieval-Augmented Generation (RAG)** systems 
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 - `01_download_dataset.py` – Download evaluation datasets  
 - `02_prepare_samples.py` – Preprocess and format samples  
@@ -25,7 +28,7 @@ A modular pipeline to evaluate **Retrieval-Augmented Generation (RAG)** systems 
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation
 
 ```bash
 git clone https://github.com/nagi1995/rag_evaluation.git
@@ -35,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📥 Dataset
+# 📥 Dataset
 
 This pipeline is currently tested using the [HotpotQA](https://hotpotqa.github.io/) dataset.
 
@@ -43,7 +46,7 @@ Download link: [HotpotQA](http://curtis.ml.cmu.edu/datasets/hotpot/hotpot_train_
 
 ---
 
-## 🚀 How to Use
+# 🚀 How to Use
 
 Run each step in order to complete the evaluation pipeline:
 
@@ -58,7 +61,7 @@ Intermediate outputs are saved and used in subsequent steps.
 
 ---
 
-## 🧠 Evaluation Metrics Used
+# 🧠 Evaluation Metrics Used
 
 - ROUGE 
 - BLEU 
