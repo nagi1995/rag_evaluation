@@ -1,6 +1,6 @@
 # 🧪 RAG Evaluation Pipeline
 
-A modular pipeline to evaluate **Retrieval-Augmented Generation (RAG)** systems using popular datasets, dense embeddings, and standard NLP evaluation metrics.
+A modular pipeline to evaluate **Retrieval-Augmented Generation (RAG)** systems using HotspotQA dataset, dense embeddings, and standard NLP evaluation metrics.
 
 ---
 
